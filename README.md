@@ -1,1 +1,1 @@
-# Repositório Inial.
+# Repositório Inicial.
